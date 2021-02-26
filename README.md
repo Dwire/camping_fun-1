@@ -1,3 +1,19 @@
+- How many views to create for each camper and activity
+- Order of development steps
+- collection select!
+- erb syntax
+  - HTML
+  - erb <% %> <%= %>
+- Linking 
+  - cover link_to 
+  - Where to place links
+
+  - reset_pk_sequence
+
+  camper_activity  CamperActivity
+  our_camper_activity OurCamperActivity
+
+
 ## The Domain
 Congratulations! You have been hired by Access Camp and for your first job, you have been tasked with building out a website to log campers with their activities.
 
